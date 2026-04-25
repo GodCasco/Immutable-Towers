@@ -5,7 +5,7 @@ Immutable Towers é um jogo simples estilo Tower Defense, desenvolvido em Haskel
 Sendo um dos nossos primeiros projetos universitários, este repositório representa não apenas um jogo funcional, mas também a nossa experiência inicial no mundo da programação funcional.
 
 
-# O Conceito
+# Conceito
 
 Como um Tower Defense clássico, o objetivo do jogo é simples: sobreviver. O jogador deve posicionar as suas defesas estrategicamente pelo mapa para impedir que os inimigos cheguem ao final do percurso.
 
