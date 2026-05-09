@@ -1,44 +1,43 @@
 # Immutable Towers
 
-Immutable Towers é um jogo simples estilo Tower Defense, desenvolvido em Haskell durante o ano letivo de 2024/2025.
+Immutable Towers is a simple Tower Defense game, developed in Haskell during the 2024/2025 academic year.
 
-Sendo um dos nossos primeiros projetos universitários, este repositório representa não apenas um jogo funcional, mas também a nossa experiência inicial no mundo da programação funcional.
-
-
-# Conceito
-
-Como um Tower Defense clássico, o objetivo do jogo é simples: sobreviver. O jogador deve posicionar as suas defesas estrategicamente pelo mapa para impedir que os inimigos cheguem ao final do percurso.
+Being one of our first university projects, this repository represents not only a functional game, but also our initial experience in the world of functional programming.
 
 
-# Execução
+# Concept
 
-O projeto utiliza o ecossistema padrão de Haskell para garantir portabilidade e gestão de dependências.
+Like a classic Tower Defense, the goal of the game is simple: survive. The player must strategically place their defenses across the map to prevent enemies from reaching the end of the path.
 
-Linguagem: Haskell (GHC)
 
-Gráficos: Gloss
+# Running
+
+The project uses the standard Haskell ecosystem to ensure portability and dependency management.
+
+Language: Haskell (GHC)
+
+Graphics: Gloss
 
 Build Tool: Cabal
 
-Como correr o projeto:
-Certifique-se de que tem o Cabal e o GHC instalados.
+How to run the project:
+Make sure you have Cabal and GHC installed.
 
-Clone o repositório:
+Clone the repository:
 
 ```bash
 git clone https://github.com/teu-utilizador/immutable-towers.git
 cd immutable-towers
 ```
 
-Atualize as dependências e execute:
+Update dependencies and run:
 
 ```bash
 cabal update
 cabal run
 ```
 
-# Autores
+# Authors
 Vasco Machado
 
 Duarte Arruda
-
