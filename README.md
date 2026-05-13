@@ -23,13 +23,6 @@ Build Tool: Cabal
 How to run the project:
 Make sure you have Cabal and GHC installed.
 
-Clone the repository:
-
-```bash
-git clone https://github.com/teu-utilizador/immutable-towers.git
-cd immutable-towers
-```
-
 Update dependencies and run:
 
 ```bash
